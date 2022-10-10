@@ -1,0 +1,7 @@
+Bed = £250
+Table = £175
+Clock = £35
+Tv = £799
+Chairs = £120
+---------------
+The total is: £1379
